@@ -14,7 +14,7 @@ Simple cross platform shopping list application using Angular 4, Firebase, and I
 
 ![Shopping List Add 2](https://raw.githubusercontent.com/GettinDatFoShow/IonicShoppingList/master/shopping_pics/shopping3.png)
 
-![Shopping List Edit](https://raw.githubusercontent.com/GettinDatFoShow/IonicShoppingList/master/shopping_pics/shopping3.png)
+![Shopping List Edit](https://github.com/GettinDatFoShow/IonicShoppingList/blob/master/shopping_pics/shopping4.png)
 
 ![Shopping List Delete](https://raw.githubusercontent.com/GettinDatFoShow/IonicShoppingList/master/shopping_pics/shopping5.png)
 
