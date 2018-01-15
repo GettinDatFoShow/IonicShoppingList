@@ -4,5 +4,6 @@ Simple cross platform shopping list application using Angular 4, Firebase, and I
 
 **Lecture can be found here:** 
 [Learn Ionic From Scratch](https://www.udemy.com/learn-ionic-3-from-scratch)
+
 **Video of this application can be found here:**
 [Angular 4 / Ionic 3 Shopping List](https://youtu.be/urtgEl5ZSJo)
